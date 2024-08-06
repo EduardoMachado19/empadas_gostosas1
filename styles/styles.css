@@ -1,0 +1,58 @@
+.nav-yellow {
+    background-color: #FFB74D
+}
+
+.titulo-style {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.photo-empadas {
+    max-width: 100%;
+    height: auto;
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    border-radius: 50%
+}
+
+.footer {
+    height: 80px;
+    width: 500px;
+    margin-left: auto;
+    /* Centraliza horizontalmente */
+    margin-right: auto;
+    /* Centraliza horizontalmente */
+    text-align: center;
+    /* Centraliza horizontalmente */
+}
+
+.card-title {
+    font-weight: bold;
+    color: #FFC340
+}
+
+.team {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chef-photo {
+    margin: 0 20px;
+    text-align: center;
+    border-radius: 50%;
+    width: 15%;
+}
+
+.destaque{
+    font-weight: bold;
+}
+
+.map-container{
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    margin-top: 15px;
+}
